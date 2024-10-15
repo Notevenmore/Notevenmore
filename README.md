@@ -30,10 +30,10 @@ Desain: Adobe Illustrator, Figma, Canva
 <br /> <br />
 DevOps: Docker, Linux
 
-🌱 Terus Belajar & Berkembang
+🌱 Terus Belajar & Berkembang <br />
 Saya berkomitmen untuk terus belajar dan selalu mencari peluang untuk memperluas keterampilan saya. Saat ini, saya mendalami layanan cloud seperti Firebase, dan mengeksplorasi praktik DevOps untuk meningkatkan efisiensi pengembangan.
 
-👥 Mari Berkolaborasi!
+👥 Mari Berkolaborasi! <br />
 Saya terbuka untuk berkolaborasi dalam proyek inovatif, baik itu web maupun mobile, dan saya sangat antusias bekerja dengan tim yang mengutamakan kreativitas, pertumbuhan, dan keunggulan. Jika Anda mencari Full-Stack Developer dengan kemampuan pengembangan mobile dan sentuhan Desain Grafis, jangan ragu untuk menghubungi saya!
 
 📧 Hubungi Saya! – Email: abdamadhafiz13@gmail.com | LinkedIn: abdullah-ahmad-hafiz-bb5712182
