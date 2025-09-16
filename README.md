@@ -6,7 +6,7 @@ Sebagai developer yang serba bisa, saya menikmati bekerja sebagai pengembang apl
 
 Frontend Development: Membuat antarmuka pengguna yang intuitif menggunakan **React.js**, **Next.js**, **React Native**, **Flutter**, **Blade Component**, **Livewire Component (Laravel)**, dan **Tailwind CSS** untuk desain yang modern dan responsif.
 <br /> <br />
-Backend Development: Merancang solusi backend yang tangguh dan skalabel dengan **Node.js**, **Express**, **Laravel**, **FlaskAPI Python**, serta mengelola basis data seperti **MySQL**, **PostgreSQL**, **Firebase Firestore**, dan **MongoDB**.
+Backend Development: Merancang solusi backend yang tangguh dan skalabel dengan **Node.js**, **Express**, **Laravel**, **FlaskAPI Python**, **Go (Programming Language)** serta mengelola basis data seperti **MySQL**, **PostgreSQL**, **Firebase Firestore**, dan **MongoDB**.
 <br /> <br />
 Full-Stack Mobile Development: Membuat aplikasi mobile lintas platform dengan **React Native** yang memastikan performa lancar di platform Android.
 <br /> <br />
