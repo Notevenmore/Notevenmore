@@ -18,7 +18,7 @@ Berikut adalah beberapa alat dan teknologi yang biasa saya gunakan:
 
 Frontend (Web & Mobile): React, Next.js, React Native, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3, Laravel Blade Component, Livewire
 <br /> <br />
-Backend: Node.js, Express, Laravel, PHP, Flask Python, Codeigniter, RESTful APIs
+Backend: Node.js, Express, Laravel, PHP, Flask Python, Codeigniter, Golang, RESTful APIs
 <br /> <br />
 Database: MySQL, PostgreSQL, MongoDB
 <br /> <br />
