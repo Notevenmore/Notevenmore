@@ -1,4 +1,4 @@
-Hai! 👋 Saya **Abdullah Ahmad Hafiz** – *Full-Stack Web & Mobile Developer*, serta *Graphic Designer*. 
+Hai! 👋 Saya **Abdullah Ahmad Hafiz** – *Full-Stack Web & Mobile Developer*, *Machine Learning, Deep Learning, Artificial Intelligence Developer*, *Data Analyst, Data Mining & Data Scientist*, serta *Graphic Designer*. 
 Saya adalah Web dan Mobile Developer yang bersemangat dengan keahlian dalam *Full-Stack Development*, menciptakan pengalaman digital yang mulus dan menarik di berbagai platform. Dengan dasar yang kuat dalam teknologi *Frontend* dan *Backend*, saya mengkhususkan diri dalam mengembangkan aplikasi web dan mobile yang tidak hanya fungsional tetapi juga menarik secara visual.
 
 🚀 Apa yang Saya Kerjakan? <br />
